@@ -1,0 +1,69 @@
+<!doctype html>
+<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <!-- Required meta tags -->
+      <meta charset="utf-8"/>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" th:href="@{https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css}" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" th:href="@{css/style.css}">
+
+    <title>Index</title>
+  </head>
+  <body>
+      <div class="container">
+        <header class="row">
+            <div class="col">
+                <img th:src="@{images/logo.png}" class="img-fluid" alt="Responsive image">
+            </div>
+        </header>
+        <nav class="nav nav-pills nav-justified">
+              <a class="nav-item nav-link active" th:href="@{'/'}">Strona główna</a>
+              <a class="nav-item nav-link" th:href="@{'/signIn'}">Logowanie</a>
+              <a class="nav-item nav-link" th:href="@{'/signUp'}">Rejestracja</a>
+              <a class="nav-item nav-link" th:href="@{'/Contact'}">Kontakt</a>
+        </nav>
+        <main>
+            <div class="row">
+                <aside class="col">
+                    <div class="jumbotron text-center">
+                      <h1 class="display-4">Wrzuć swój plik!</h1>
+                      <p class="lead">Administrator nie ponosi odpowiedzialności</p>
+                      <hr class="my-4">
+                      <p>Wybierz plik który ma zostać przesłany</p>
+                      <p class="lead">
+                          <form method="post" enctype="multipart/form-data" th:action="@{/upload}" action="/upload">
+                        <input class="btn btn-warning btn-lg" type="file" name="file" id="file" placeholder="file" />
+                        <input class="btn btn-warning btn-lg" name="file" id="file" placeholder="file" value="Wrzuć!" type="submit"/>
+                    </form>
+                      </p>
+                    </div>
+                </aside>
+            </div>
+
+
+        </main>
+        <footer class="row">
+            <div class="col text-center">
+                <p>
+                    <span sec:authorize="isAuthenticated()" style="display: inline-block;">
+                    | Logged user: <span sec:authentication="name"></span> |
+                    Roles: <span sec:authentication="principal.authorities"></span> |
+                    <a th:href="@{/logout}">Sign Out</a>
+                </span>
+                </p>
+            </div>
+        </footer>
+        
+      </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

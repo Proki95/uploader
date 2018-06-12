@@ -1,0 +1,331 @@
+﻿2018-05-21 19:44:03> Program: Starting Squirrel Updater: --createShortcut slack.exe -l Desktop,StartMenu --icon C:\Users\Pawel\AppData\Local\slack\app-win10.ico
+2018-05-21 19:44:03> ApplyReleasesImpl: About to create shortcuts for slack.exe, rootAppDir C:\Users\Pawel\AppData\Local\slack
+2018-05-21 19:44:03> ApplyReleasesImpl: Creating shortcut for slack.exe => C:\Users\Pawel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Slack Technologies\Slack.lnk
+2018-05-21 19:44:03> ApplyReleasesImpl: About to save shortcut: C:\Users\Pawel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Slack Technologies\Slack.lnk (target C:\Users\Pawel\AppData\Local\slack\slack.exe, workingDir C:\Users\Pawel\AppData\Local\slack\app-3.1.1, args , toastActivatorCSLID 9a92da87-49f2-51a4-a2b5-718444efc154)
+2018-05-21 19:44:03> ApplyReleasesImpl: Creating shortcut for slack.exe => C:\Users\Pawel\Desktop\Slack.lnk
+2018-05-21 19:44:03> ApplyReleasesImpl: About to save shortcut: C:\Users\Pawel\Desktop\Slack.lnk (target C:\Users\Pawel\AppData\Local\slack\slack.exe, workingDir C:\Users\Pawel\AppData\Local\slack\app-3.1.1, args , toastActivatorCSLID 9a92da87-49f2-51a4-a2b5-718444efc154)
+2018-05-21 19:44:03> ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+2018-05-21 19:44:03> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2018-05-21 19:44:03> ApplyReleasesImpl: Examining Pin: IntelliJ IDEA 2018.1.3 x64.lnk
+2018-05-21 19:59:55> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-21 19:59:55> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-21 19:59:55> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-22 10:29:58> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-22 10:29:58> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-22 10:29:58> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-22 10:31:27> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-22 10:31:27> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-22 10:31:27> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-22 21:58:50> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-22 21:58:50> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-22 21:58:50> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-22 22:07:40> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-22 22:07:41> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-22 22:07:41> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 08:10:56> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 08:10:56> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 08:10:56> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 08:44:02> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 08:44:02> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 08:44:02> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 08:50:42> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 08:50:42> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 08:50:42> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 10:38:21> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 10:38:21> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 10:38:21> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 10:54:14> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 10:54:14> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 10:54:14> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 18:30:54> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 18:30:54> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 18:30:54> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 18:35:35> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 18:35:35> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 18:35:35> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 18:48:24> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 18:48:24> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 18:48:24> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-23 18:55:16> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-23 18:55:16> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-23 18:55:16> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-25 09:07:57> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-25 09:07:57> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-25 09:07:57> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-26 21:38:32> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-26 21:38:32> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-26 21:38:32> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-27 09:47:23> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-27 09:47:23> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-27 09:47:23> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-05-27 19:53:24> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-05-27 19:53:24> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-05-27 19:53:24> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-06-08 09:45:21> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-06-08 09:45:21> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-06-08 09:45:21> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-06-08 15:45:26> Program: Starting Squirrel Updater: --checkForUpdate https://slack.com/desktop/update/windows_x64
+2018-06-08 15:45:26> Program: Fetching update information, downloading from https://slack.com/desktop/update/windows_x64
+2018-06-08 15:45:26> CheckForUpdateImpl: Generated new staging user ID: 5244fba0-47e0-5857-a1fc-5625ad079e1a
+2018-06-08 15:45:26> CheckForUpdateImpl: Downloading RELEASES file from https://slack.com/desktop/update/windows_x64
+2018-06-08 15:45:27> FileDownloader: Downloading url: https://slack.com/desktop/update/windows_x64/RELEASES?id=slack&localVersion=3.1.1&arch=amd64
+2018-06-09 08:27:12> Program: Starting Squirrel Updater: --processStart slack.exe --process-start-args --startup
+2018-06-09 08:27:12> Program: Want to launch 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe'
+2018-06-09 08:27:12> Program: About to launch: 'C:\Users\Pawel\AppData\Local\slack\app-3.1.1\slack.exe': --startup
+2018-06-09 08:27:19> Program: Starting Squirrel Updater: --checkForUpdate https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:19> Program: Fetching update information, downloading from https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:19> CheckForUpdateImpl: Using existing staging user ID: 5244fba0-47e0-5857-a1fc-5625ad079e1a
+2018-06-09 08:27:19> CheckForUpdateImpl: Downloading RELEASES file from https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:19> FileDownloader: Downloading url: https://slack.com/desktop/update/windows_x64/RELEASES?id=slack&localVersion=3.1.1&arch=amd64
+2018-06-09 08:27:20> UpdateInfo: Couldn't get release notes for:slack-3.2.0-delta.nupkg: System.IO.FileNotFoundException: Nie można odnaleźć pliku 'C:\Users\Pawel\AppData\Local\slack\packages\slack-3.2.0-delta.nupkg'.
+Nazwa pliku: 'C:\Users\Pawel\AppData\Local\slack\packages\slack-3.2.0-delta.nupkg'
+   w System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   w System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   w NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   w NuGet.ZipPackage.EnsureManifest()
+   w NuGet.ZipPackage..ctor(String filePath, Boolean enableCaching)
+   w Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   w Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+2018-06-09 08:27:20> Program: Starting Squirrel Updater: --update https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:20> Program: Starting update, downloading from https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:20> Program: About to update to: C:\Users\Pawel\AppData\Local\slack
+2018-06-09 08:27:20> CheckForUpdateImpl: Using existing staging user ID: 5244fba0-47e0-5857-a1fc-5625ad079e1a
+2018-06-09 08:27:20> CheckForUpdateImpl: Downloading RELEASES file from https://slack.com/desktop/update/windows_x64
+2018-06-09 08:27:20> FileDownloader: Downloading url: https://slack.com/desktop/update/windows_x64/RELEASES?id=slack&localVersion=3.1.1&arch=amd64
+2018-06-09 08:27:21> FileDownloader: Downloading file: https://slack.com/desktop/update/windows_x64/slack-3.2.0-delta.nupkg
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-console-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-datetime-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-debug-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-errorhandling-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-file-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-file-l1-2-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-file-l2-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-handle-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-heap-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-interlocked-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-libraryloader-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-localization-l1-2-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-memory-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-namedpipe-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-processenvironment-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-processthreads-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-processthreads-l1-1-1.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-profile-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-rtlsupport-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-string-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-synch-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-synch-l1-2-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-sysinfo-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-timezone-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-core-util-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-conio-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-convert-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-environment-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-filesystem-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-heap-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-locale-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-math-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-multibyte-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-private-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-process-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-runtime-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-stdio-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-string-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-time-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\api-ms-win-crt-utility-l1-1-0.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: Applying MSDiff to lib\net45\blink_image_resources_200_percent.pak.diff
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\concrt140.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\content_resources_200_percent.pak.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: Applying MSDiff to lib\net45\content_shell.pak.diff
+2018-06-09 08:27:48> DeltaPackageBuilder: lib\net45\d3dcompiler_47.dll.diff exists unchanged, skipping
+2018-06-09 08:27:48> DeltaPackageBuilder: Applying MSDiff to lib\net45\ffmpeg.dll.diff
+2018-06-09 08:27:48> DeltaPackageBuilder: Applying MSDiff to lib\net45\icudtl.dat.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\libEGL.dll.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\libGLESv2.dll.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\LICENSE.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: lib\net45\msvcp140.dll.diff exists unchanged, skipping
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\natives_blob.bin.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\node.dll.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying MSDiff to lib\net45\pdf_viewer_resources.pak.diff
+2018-06-09 08:27:49> DeltaPackageBuilder: Applying BSDiff to lib\net45\slack.exe.bsdiff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\slack_ExecutionStub.exe.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\snapshot_blob.bin.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\squirrel.exe.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: lib\net45\ucrtbase.dll.diff exists unchanged, skipping
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\ui_resources_200_percent.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: lib\net45\vccorlib140.dll.diff exists unchanged, skipping
+2018-06-09 08:28:05> DeltaPackageBuilder: lib\net45\vcruntime140.dll.diff exists unchanged, skipping
+2018-06-09 08:28:05> DeltaPackageBuilder: lib\net45\views_resources_200_percent.pak.diff exists unchanged, skipping
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\am.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ar.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\bg.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\bn.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ca.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\cs.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\da.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\de.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\el.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\en-GB.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\en-US.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\es-419.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\es.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\et.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\fa.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\fake-bidi.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\fi.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\fil.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\fr.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\gu.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\he.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\hi.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\hr.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\hu.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\id.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\it.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ja.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\kn.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ko.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\lt.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\lv.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ml.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\mr.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ms.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\nb.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\nl.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\pl.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\pt-BR.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\pt-PT.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ro.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ru.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\sk.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\sl.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\sr.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\sv.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\sw.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\ta.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\te.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\th.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\tr.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\uk.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\vi.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\zh-CN.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying MSDiff to lib\net45\locales\zh-TW.pak.diff
+2018-06-09 08:28:05> DeltaPackageBuilder: lib\net45\resources\animal_stick.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:05> DeltaPackageBuilder: Applying BSDiff to lib\net45\resources\app.asar.bsdiff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\b2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\been_tree.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_alert_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_confirmation_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_incoming_ring_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_outgoing_ring_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_pop_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_they_joined_call_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_they_left_call_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_you_joined_call_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\calls_you_left_call_v2.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\complete_quest_requirement.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\confirm_delivery.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\electron.asar.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\flitterbug.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\here_you_go_lighter.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\hi_flowers_hit.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\hummus.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\item_pickup.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\knock_brush.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\save_and_checkout.mp3.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Adding new file: lib\net45\resources\screen.ico
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\slack.VisualElementsManifest.xml.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\SlackAppList.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\SlackLogo.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\SlackSmallTile.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\VisualElementsManifest.xml.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10\windows.applicationmodel\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10\windows.data.xml.dom\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10\windows.foundation\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10\windows.ui.notifications\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10\windows.ui.startscreen\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@nodert-win10-au\windows.applicationmodel\build\Release\binding.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@paulcbetts\cld\build\Release\cld.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@paulcbetts\spellchecker\build\Release\spellchecker.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@paulcbetts\system-idle-time\build\Release\system_idle_time.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@paulcbetts\v8-profiler\build\Release\profiler.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@slack\slack-calls-prebuilt\modules\@slack\slack-calls\build\Release\boringssl.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@slack\slack-calls-prebuilt\modules\@slack\slack-calls\build\Release\CallsCore.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@slack\slack-calls-prebuilt\modules\@slack\slack-calls\build\Release\protobuf_lite.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\@slack\slack-calls-prebuilt\modules\@slack\slack-calls\build\Release\slack-calls.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\electron-windows-interactive-notifications\build\Release\InteractiveNotifications.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\electron-windows-interactive-notifications\build\Release\notifications_bindings.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\electron-windows-interactive-notifications\Release\InteractiveNotifications.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\electron-windows-interactive-notifications\x64\Release\InteractiveNotifications.dll.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\keyboard-layout\build\Release\keyboard-layout-manager.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\keytar\build\Release\keytar.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\runas\build\Release\runas.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\windows-active-process\build\Release\processname.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\windows-notification-state\build\Release\notificationstate.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\node_modules\windows-quiet-hours\build\Release\quiethours.node.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\app-win10.ico.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Adding new file: lib\net45\resources\app.asar.unpacked\src\static\bugsnag.min-4.3.0.js
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\calls-test-sound.pcm.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\darn-robots.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\Hash@1x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\Hash@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\Hash@3x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\src\static\index.jade.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\src\static\index.js.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\lato.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\logo_black@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\logo_black@3x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\logo_white@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\logo_white@3x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\normalize.css.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\noto.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-icons-font.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-highlight.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-highlight@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-pressed.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-pressed@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-rest-Template.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-rest-Template@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-unread-Template.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-menubar-unread-Template@2x.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-taskbar-highlight.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-taskbar-rest.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack-taskbar-unread.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\slack.png.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\src\static\ssb-interop.js.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: Applying MSDiff to lib\net45\resources\app.asar.unpacked\src\static\ssb-signin-main.ts.diff
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\ssb-signin-preload.js.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\ts_icon_arrow_large_left.svg.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\ts_icon_times_circle.svg.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\override\dropins.js.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\plastic\plastic_colors.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\plastic\plastic_typography.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\plastic\plastic_utilities.less.diff exists unchanged, skipping
+2018-06-09 08:28:08> DeltaPackageBuilder: lib\net45\resources\app.asar.unpacked\src\static\bugsnag-3.js was in old package but not in new one, deleting
+2018-06-09 08:28:08> DeltaPackageBuilder: Updating metadata file: slack.nuspec
+2018-06-09 08:28:08> DeltaPackageBuilder: Updating metadata file: [Content_Types].xml
+2018-06-09 08:28:08> DeltaPackageBuilder: Updating metadata file: package\services\metadata\core-properties\a660169ed61b470cb7bd3a3d45430ce9.psmdcp
+2018-06-09 08:28:08> DeltaPackageBuilder: Updating metadata file: _rels\.rels
+2018-06-09 08:28:08> DeltaPackageBuilder: Repacking into full package: C:\Users\Pawel\AppData\Local\slack\packages\slack-3.2.0.nupkg
+2018-06-09 08:28:19> ApplyReleasesImpl: Writing files to app directory: C:\Users\Pawel\AppData\Local\slack\app-3.2.0
+2018-06-09 08:28:19> LogHost: Rigging execution stub for lib/net45/slack_ExecutionStub.exe to C:\Users\Pawel\AppData\Local\slack\slack.exe
+2018-06-09 08:28:20> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Pawel\AppData\Local\slack\app-3.2.0\slack.exe]
+2018-06-09 08:28:22> ApplyReleasesImpl: Starting fixPinnedExecutables
+2018-06-09 08:28:22> ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+2018-06-09 08:28:22> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2018-06-09 08:28:22> ApplyReleasesImpl: Examining Pin: IntelliJ IDEA 2018.1.3 x64.lnk
+2018-06-09 08:28:22> ApplyReleasesImpl: Examining Pin: Slack.lnk
+2018-06-09 08:28:22> ApplyReleasesImpl: Processing shortcut 'C:\Users\Pawel\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Slack.lnk'
+2018-06-09 08:28:22> ApplyReleasesImpl: Old shortcut target: 'C:\Users\Pawel\AppData\Local\slack\slack.exe'
+2018-06-09 08:28:22> ApplyReleasesImpl: New shortcut target: 'C:\Users\Pawel\AppData\Local\slack\slack.exe'
+2018-06-09 08:28:22> ApplyReleasesImpl: Old iconPath is: 'C:\Users\Pawel\AppData\Local\slack\app-win10.ico'
+2018-06-09 08:28:22> ApplyReleasesImpl: Finished shortcut successfully
+2018-06-09 08:28:22> ApplyReleasesImpl: Fixing up tray icons
+2018-06-09 08:28:22> ApplyReleasesImpl: Couldn't rewrite shim RegKey, most likely no apps are shimmed: System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Squirrel.UpdateManager.ApplyReleasesImpl.<unshimOurselves>b__13_0(RegistryView view)
+2018-06-09 08:28:22> ApplyReleasesImpl: Couldn't rewrite shim RegKey, most likely no apps are shimmed: System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Squirrel.UpdateManager.ApplyReleasesImpl.<unshimOurselves>b__13_0(RegistryView view)
+2018-06-09 08:28:22> ApplyReleasesImpl: cleanDeadVersions: for version 3.2.0
+2018-06-09 08:28:22> ApplyReleasesImpl: cleanDeadVersions: exclude folder app-3.1.1
+2018-06-09 08:28:22> ApplyReleasesImpl: cleanDeadVersions: exclude folder app-3.2.0

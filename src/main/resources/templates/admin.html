@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <title>Admin Panel</title>
+  </head>
+  <body>
+      <div class="container">
+        <header class="row">
+            <div class="col">
+                <img src="images/logo.png" class="img-fluid" alt="Responsive image">
+            </div>
+        </header>
+        <nav class="nav nav-pills nav-justified">
+              <a class="nav-item nav-link active" th:href="@{'/'}">Strona główna</a>
+              <a class="nav-item nav-link" th:href="@{'/showUsers'}">Lista Użytkowników</a>
+              <a class="nav-item nav-link" th:href="@{'/showFiles'}">Wrzucone Pliki</a>
+            <a class="nav-item nav-link" th:href="@{'/logout'}">Wyloguj</a>
+        </nav>
+        <main>
+            <div class="row">
+                <section class="col text-center">
+                    <h2>Użytkownicy</h2>
+                </section>
+            </div>
+            <table class="table table-sm table-primary">
+                <thead>
+                <tr>
+                    <th scope="col">Login</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Usuwanie użytkownika</th>
+                </tr>
+                </thead>
+                <tbody th:each="user : ${user}" th:remove="tag">
+                <tr>
+                    <td><a th:href="@{'/getUser/' + ${user.id}}" th:text="${user.login}"></a></td>
+                    <td th:text="${user.email}"></td>
+                    <td><form th:action="@{'/delete/' + ${user.id}}" method="post"><button type="submit" class="btn btn-primary">Usuń</button></form></td>
+
+                </tr>
+                </tbody>
+            </table>
+
+        </main>
+        <footer class="row">
+            <div class="col text-center">
+                Created by Popkorn
+                Created by Popkorn
+            </div>
+            <th:block th:fragment="footer">
+                <footer>
+                    <div class="container">
+                        <p>
+                            <span sec:authorize="isAuthenticated()" style="display: inline-block;">
+                    | Logged user: <span sec:authentication="name"></span> |
+                    Roles: <span sec:authentication="principal.authorities"></span> |
+                    <a th:href="@{/logout}">Sign Out</a>
+                </span>
+                        </p>
+                    </div>
+        </footer>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </th:block>
+  </body>
+</html>
